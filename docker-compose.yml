@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  assistant-pep:
+    build: .
+    container_name: assistant-pep
+    ports:
+      - "8000:8000"
+    env_file:
+      - .env
+    volumes:
+      - ./public:/app/public
+    restart: unless-stopped
