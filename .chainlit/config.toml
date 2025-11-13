@@ -53,7 +53,7 @@ auto_tag_thread = true
 name = "assistant"
 
 # Show the readme while the thread is empty.
-show_readme_as_default = true
+show_readme_as_default = false
 
 # Description of the app and chatbot. This is used for HTML tags.
 description = "Assistant intelligent pour la rédaction de Plans d'Exécution de Projet (PEP)"
