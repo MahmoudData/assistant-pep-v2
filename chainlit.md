@@ -8,7 +8,7 @@ Je vais vous aider à rédiger votre Plan d'Exécution de Projet (PEP) étape pa
 
 1. 📎 **Uploadez vos documents** (offre, contrat, cahier des charges…) via le trombone en bas de l’interface.
 2. 💬 **Répondez aux questions** pour chaque section du PEP. L’assistant vous guide et structure vos réponses.
-3. ⚡ **Générez le document final** avec la commande `/generer_pep` ou en cliquant sur tools.
+3. ⚡ **Générez le document final** avec la commande `/generer_pep` ou en cliquant sur Outils.
 
 ## Commandes disponibles
 
